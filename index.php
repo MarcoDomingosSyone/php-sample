@@ -9,7 +9,7 @@
     <?php
 echo "My name is ".
 getenv("nome_completo") . ".\n".
-"I am".
+"I am ".
 getenv("idade").
 "years old.\n". 
 " I am from ".
