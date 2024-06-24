@@ -1,7 +1,7 @@
 <?php
 
 echo "Syone - 2024";
-echo getenv("\tnome_completo\n");
+echo getenv("nome_completo");
 echo getenv("\tidade\n");
 echo getenv("\tcidade\n");
 echo getenv("\tteamLeader\n");
