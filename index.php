@@ -1,11 +1,11 @@
 <?php
 
-echo "Syone - 2024";
-echo getenv("nome_completo");
+echo "\t Syone - 2024 \n";
+echo getenv("\t nome_completo \n");
 echo " ";
-echo getenv("idade");
+echo getenv("\t idade \n");
 echo " ";
-echo getenv("cidade");
+echo getenv("\t cidade \n");
 echo " ";
-echo getenv("teamLeader");
+echo getenv("\t teamLeader \n");
 echo " ";
