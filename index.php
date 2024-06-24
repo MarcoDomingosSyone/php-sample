@@ -1,8 +1,10 @@
 <?php
 
 echo "Syone - 2024";
-echo $nome_completo;
+echo getenv('<p> nome_completo </p>');
 echo getenv("idade");
 echo getenv("cidade");
 echo getenv("teamLeader");
 ?>
+
+
