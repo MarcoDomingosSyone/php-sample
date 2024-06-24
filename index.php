@@ -2,10 +2,10 @@
 
 echo "Syone - 2024";
 echo getenv("nome_completo");
-echo "";
+echo "\n\t";
 echo getenv("idade");
-echo "";
+echo "\n\t";
 echo getenv("cidade");
-echo "";
+echo "\n\t";
 echo getenv("teamLeader");
-echo "";
+echo "\n\t";
