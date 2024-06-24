@@ -12,7 +12,7 @@ getenv("nome_completo") . ".\n".
 "I am".
 getenv("idade").
 "years old.\n". 
-"I am from ".
+" I am from ".
 getenv("cidade") .
 " and my team leader is ".
 getenv("teamLeader") . "\n";
