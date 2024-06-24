@@ -7,14 +7,14 @@
 </head>
 <body>
     <?php
-echo "My name is".
-getenv("nome_completo") . "\n".
+echo "My name is ".
+getenv("nome_completo") . ".\n".
 "I am".
 getenv("idade").
-"old.\n". 
+"years old.\n". 
 "I am from ".
 getenv("cidade") .
-"and my team leader is ".
+" and my team leader is ".
 getenv("teamLeader") . "\n";
 
 $image_url = "https://careers.recruiteecdn.com/image/upload/q_auto,f_auto,w_400,c_limit/production/images/BN5l/2dDjxgF-CXUi.png";
