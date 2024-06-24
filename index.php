@@ -7,7 +7,5 @@ getenv("cidade") . "\n".
 getenv("teamLeader") . "\n";
 
 $image_url = "https://careers.recruiteecdn.com/image/upload/q_auto,f_auto,w_400,c_limit/production/images/BN5l/2dDjxgF-CXUi.png";
-echo "<img src='" . $image_url";
+echo "<img src=$image_url";
 ?>
-
-
